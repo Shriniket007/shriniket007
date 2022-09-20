@@ -2,7 +2,18 @@
 
 
 
-[![shriniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=shriniket007)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, my name is shriniket
+#### frontend developer
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills:  JS / HTML / CSS/C++/python/SQL/
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 ![shriniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=shriniket007&show_icons=true)
 
