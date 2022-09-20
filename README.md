@@ -1,8 +1,8 @@
-
+<!--
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shriniket007&show_icons=true&theme=radical)
 
-<!-- 
+ 
 ### Hi there 👋, my name is shriniket
 #### frontend developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
