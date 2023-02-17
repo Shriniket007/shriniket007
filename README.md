@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriniket007" alt="shriniket007" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **MERN stack project**
 
-- 🌱 I’m currently learning **DSA, node js, Mongodb**
+- 🌱 I’m currently learning ** React js, DSA, Backend Development**
 
 - 📫 How to reach me **shriniketkulkarni42@gmail.com**
 
@@ -24,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriniket007&show_icons=true&locale=en" alt="shriniket007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriniket007&" alt="shriniket007" /></p>
+
  -->
