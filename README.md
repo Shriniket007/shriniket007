@@ -14,7 +14,7 @@
 - 📫 How to reach me **shriniketkulkarni42@gmail.com**
 -->
 
-- About Me
+- About Me<br>
 🔭 Hello! I'm Shriniket Kulkarni, currently in my fourth year of engineering at D.Y. Patil College of Engineering in Akurdi, Pune.<br>
 🌱 I am currently learning Data Structures and Algorithms.<br>
 👯 Eagerly seeking opportunities to contribute to Open Source Projects!<br>
