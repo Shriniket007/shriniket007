@@ -58,14 +58,17 @@
 
 
 
+## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriniket007&show_icons=true&locale=en&layout=compact" alt="shriniket007" /></p>
+  <br/>
+    <a href="https://github.com/rutikgagare/github-readme-stats"><img alt="Rutik Gagare's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rutikgagare&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/rutikgagare/github-readme-stats"><img alt="Rutik Gagare's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikgagare&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriniket007&show_icons=true&locale=en" alt="shriniket007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriniket007&" alt="shriniket007" /></p>
-
-
+<br/>
+<br/>
 
 
 
