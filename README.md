@@ -15,12 +15,12 @@
 -->
 
 - About Me
-🔭 Hello! I'm Shriniket Kulkarni, currently in my fourth year of engineering at D.Y. Patil College of Engineering in Akurdi, Pune.
-🌱 I am currently learning Data Structures and Algorithms.
-👯 Eagerly seeking opportunities to contribute to Open Source Projects!
-🚀 Passionate about technology and always excited to explore and learn new things.
-✉️ You can contact me through email at shriniketkulkarni42@gmail.com.
-⚽ A football enthusiast 🏏 with an ear for great music 🎵.
+🔭 Hello! I'm Shriniket Kulkarni, currently in my fourth year of engineering at D.Y. Patil College of Engineering in Akurdi, Pune.<br>
+🌱 I am currently learning Data Structures and Algorithms.<br>
+👯 Eagerly seeking opportunities to contribute to Open Source Projects!<br>
+🚀 Passionate about technology and always excited to explore and learn new things.<br>
+✉️ You can contact me through email at shriniketkulkarni42@gmail.com.<br>
+⚽ A football enthusiast 🏏 with an ear for great music 🎵.<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriniket007&label=Profile%20views&color=0e75b6&style=flat" alt="shriniket007" /> </p>
